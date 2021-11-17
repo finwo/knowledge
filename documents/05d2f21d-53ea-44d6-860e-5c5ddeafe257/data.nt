@@ -1,0 +1,6 @@
+<https://kb.finwo.net/document/05d2f21d-53ea-44d6-860e-5c5ddeafe257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://kb.finwo.net/document/05d2f21d-53ea-44d6-860e-5c5ddeafe257> <http://purl.org/dc/terms/title> "MACAW: A Media Access Protocol for Wireless LAN's" .
+<https://kb.finwo.net/document/05d2f21d-53ea-44d6-860e-5c5ddeafe257> <http://xmlns.com/foaf/0.1/maker> <https://kb.finwo.net/person/vaduvur-bharghavan> .
+<https://kb.finwo.net/document/05d2f21d-53ea-44d6-860e-5c5ddeafe257> <http://xmlns.com/foaf/0.1/maker> <https://kb.finwo.net/person/alan-demers> .
+<https://kb.finwo.net/document/05d2f21d-53ea-44d6-860e-5c5ddeafe257> <http://xmlns.com/foaf/0.1/maker> <https://kb.finwo.net/person/scott-shenker> .
+<https://kb.finwo.net/document/05d2f21d-53ea-44d6-860e-5c5ddeafe257> <http://xmlns.com/foaf/0.1/maker> <https://kb.finwo.net/person/lixia-zhang> .

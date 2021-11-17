@@ -1,0 +1,4 @@
+<https://kb.finwo.net/class/DocumentDataDescriptor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://kb.finwo.net/class/DocumentDataDescriptor> <http://purl.org/dc/elements/1.1/title> "Document Data Descriptor" .
+<https://kb.finwo.net/class/DocumentDataDescriptor> <http://purl.org/dc/elements/1.1/description> "Describes where to find a document's data or embeds the document's data" .
+
